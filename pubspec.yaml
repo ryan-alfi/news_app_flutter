@@ -12,6 +12,10 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  google_fonts: ^2.0.0
+  alert: ^2.0.0
+  url_launcher: ^6.0.3
 
 dev_dependencies:
   flutter_test:
